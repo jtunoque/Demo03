@@ -1,0 +1,9 @@
+D:\CursoVS2017APP\Labs2018\demogit\Demo03\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\CursoVS2017APP\Labs2018\demogit\Demo03\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\CursoVS2017APP\Labs2018\demogit\Demo03\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\CursoVS2017APP\Labs2018\demogit\Demo03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\CursoVS2017APP\Labs2018\demogit\Demo03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\CursoVS2017APP\Labs2018\demogit\Demo03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\CursoVS2017APP\Labs2018\demogit\Demo03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\CursoVS2017APP\Labs2018\demogit\Demo03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\CursoVS2017APP\Labs2018\demogit\Demo03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
